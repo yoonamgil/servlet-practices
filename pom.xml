@@ -99,7 +99,6 @@
 		<module>guestbook02</module>
 		<module>emaillist01</module>
 		<module>emaillist02</module>
-		<module>jstel</module>
 		<module>jstlel</module>
 	</modules>
 </project>
